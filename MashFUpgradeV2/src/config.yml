@@ -1,0 +1,7 @@
+MySQL:
+  Ativo: true
+  Porta: 3306
+  IP: localhost
+  Usuario: 'root'
+  Senha: ''
+  DataBase: 'localhost'
