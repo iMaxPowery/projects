@@ -1,0 +1,15 @@
+name: IMPunish
+version: 1.0.0
+author: iMax
+main: imax.net.bans.Bans
+softdepend: [DiscordBotAPI]
+commands:
+  ban:
+  mute:
+  bconfirmar:
+  bcancelar:
+  unban:
+  unmute:
+  kick:
+  pver:
+  sbconfirmar:
